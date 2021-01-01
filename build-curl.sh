@@ -17,7 +17,6 @@ ARGUMENTS=" \
     --enable-hidden-symbols \
     --without-libidn \
     --without-librtmp \
-    --without-zlib \
     --disable-dict \
     --disable-file \
     --disable-ftp \
